@@ -10,7 +10,11 @@ Console.WriteLine ("ВВедите второе  числа ");
 int numberB = Convert.ToInt32(Console.ReadLine());
 if (numberA < numberB)
 {
-    Console.WriteLine( "max =", numberB);
+    Console.Write("max = ");
+    Console.Write(numberB);
 }
 else
-    Console.WriteLine("max = ", numberA);
+{
+    Console.Write("max = );
+    Console.Write(numberA);
+}
