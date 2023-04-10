@@ -4,7 +4,7 @@
 // -3 -> нет
 // 7 -> нет
 
-Console.WriteLine ("ВВедите два числа ");
+Console.WriteLine ("ВВедите число ");
 int number = Convert.ToInt32(Console.ReadLine());
 if (number<0)
 number = -number;
