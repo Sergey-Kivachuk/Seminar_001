@@ -15,6 +15,6 @@ if (numberA < numberB)
 }
 else
 {
-    Console.Write("max = );
+    Console.Write("max = ");
     Console.Write(numberA);
 }
